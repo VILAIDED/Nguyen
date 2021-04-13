@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\ASUS\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
